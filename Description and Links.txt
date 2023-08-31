@@ -1,0 +1,11 @@
+Project Description:
+
+The MATLAB Simulink code generation for chopper circuits (specifically, the boost, buck, and buck-boost choppers) involves the development of Simulink models and the generation of corresponding code to implement these chopper topologies.
+Chopper circuits are power electronic converters widely used in various applications, including DC-DC voltage conversion. The boost chopper increases the output voltage level, the buck chopper decreases the output voltage level, and the buck-boost chopper can either increase or decrease the output voltage level based on the control strategy employed.
+In this project, Simulink models are created to represent the chopper circuits, including the input voltage source, switching devices (such as MOSFETs or IGBTs), inductors, capacitors, and load. The models incorporate control algorithms, such as pulse width modulation (PWM), to regulate the output voltage or current of the chopper circuit.
+Once the Simulink models are complete and validated, code generation is performed to translate the models into executable code. The generated code can be deployed on hardware platforms, such as microcontrollers or digital signal processors (DSPs), to implement the chopper circuits in real-time applications.
+The MATLAB Simulink code generation for chopper circuits provides an efficient and flexible approach to develop and deploy control algorithms for boost, buck, and buck-boost choppers. It enables the simulation, verification, and implementation of these power electronic converters, empowering engineers to design and optimize chopper-based systems for various power conversion requirements.
+
+
+.xls src file Link:
+https://drive.google.com/drive/folders/1Z5ZayBhcpL_LptHgHY4_LEl78ZiosBWR?usp=drive_link
